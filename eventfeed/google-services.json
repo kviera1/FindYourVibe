@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "559062523373",
+    "firebase_url": "https://findyourvibe-87dcf.firebaseio.com",
+    "project_id": "findyourvibe-87dcf",
+    "storage_bucket": "findyourvibe-87dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559062523373:android:8d2aed00c09762ee",
+        "android_client_info": {
+          "package_name": "com.example.eventfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559062523373-kd7k64s50mv5kdsftmie95ufldk7vkg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventfeed",
+            "certificate_hash": "c76d0b62e098a70f5cc576b424c29933202a281b"
+          }
+        },
+        {
+          "client_id": "559062523373-uqfpcprjg1r354hbbj5huf7tnq93rqjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8unQzlFU6ZIhZXvc0n7d2WTgnYHvV4UE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559062523373-uqfpcprjg1r354hbbj5huf7tnq93rqjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
